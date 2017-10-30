@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 import Querys.Queries;
 import Querys.QueryJob1;
+import TimeTo.TimeTo2;
 import org.apache.log4j.Logger;
 import org.quartz.JobDetail;
 import org.quartz.Scheduler;
@@ -22,6 +23,9 @@ public class Main {
         logger.info("OK");
         Queries queries = new Queries("SQLQueryData/odp.txt");
         queries.startSchedule();
+
+        TimeTo2 timeTo2 = new TimeTo2();
+        timeTo2.start();
 
 //        Scheduler scheduler=null;
 //
@@ -68,6 +72,7 @@ public class Main {
             if(scanner.nextLine().equals("n"))break;
         }
         queries.stopSchedule();
+        timeTo2.stop();
 //        try {
 //                scheduler.shutdown();
 //            } catch (SchedulerException se) {
