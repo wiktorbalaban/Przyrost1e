@@ -203,3 +203,44 @@ Caused by: java.lang.NoSuchMethodException: Querys.Queries$QueryJob.<init>()
 2017-10-29 13:50:33 INFO  Main:23 - OK
 2017-10-29 13:57:10 INFO  Main:23 - OK
 2017-10-29 14:05:41 INFO  Main:23 - OK
+2017-10-30 11:17:27 INFO  Main:23 - OK
+2017-10-30 11:41:59 INFO  Queries:16 - Odpalam setUpa!
+2017-10-30 11:43:29 INFO  Queries:16 - Odpalam setUpa!
+2017-10-30 11:43:41 INFO  Queries:16 - Odpalam setUpa!
+2017-10-30 11:44:01 INFO  Queries:16 - Odpalam setUpa!
+2017-10-30 11:48:14 INFO  Queries:16 - Odpalam setUpa!
+2017-10-30 11:48:33 INFO  Queries:16 - Odpalam setUpa!
+2017-10-30 11:48:56 INFO  Queries:16 - Odpalam setUpa!
+2017-10-30 11:49:00 INFO  Queries:16 - Odpalam setUpa!
+2017-10-30 11:49:00 INFO  Queries:16 - Odpalam setUpa!
+2017-10-30 19:01:19 INFO  Queries:16 - Odpalam setUpa!
+2017-10-30 19:01:19 INFO  Queries:16 - Odpalam setUpa!
+2017-10-30 19:01:53 INFO  Queries:16 - Odpalam setUpa!
+2017-10-30 19:01:53 INFO  Queries:16 - Odpalam setUpa!
+2017-10-30 19:08:32 INFO  Main:23 - OK
+2017-10-30 19:10:28 INFO  Main:23 - OK
+2017-10-30 19:12:22 INFO  Main:23 - OK
+2017-10-30 19:15:31 INFO  Main:23 - OK
+2017-10-30 19:20:08 INFO  Main:23 - OK
+2017-10-30 19:21:09 INFO  Main:23 - OK
+2017-10-30 19:21:14 INFO  Main:23 - OK
+2017-10-30 19:22:22 INFO  Main:23 - OK
+2017-10-30 19:22:36 INFO  Main:23 - OK
+2017-10-30 19:23:16 INFO  Main:23 - OK
+2017-10-30 19:24:03 INFO  Main:23 - OK
+2017-10-30 19:24:31 INFO  Main:23 - OK
+2017-10-30 19:47:58 INFO  Queries:16 - Odpalam setUpa!
+2017-10-30 19:47:58 INFO  Queries:16 - Odpalam setUpa!
+2017-10-30 19:50:31 INFO  Queries:16 - Odpalam setUpa!
+2017-10-30 19:50:31 INFO  Queries:16 - Odpalam setUpa!
+2017-10-30 20:01:18 INFO  Main:15 - OK
+2017-10-31 15:24:09 INFO  Main:15 - OK
+2017-10-31 15:26:32 INFO  Queries:16 - Odpalam setUpa!
+2017-10-31 15:26:32 INFO  Queries:16 - Odpalam setUpa!
+2017-10-31 15:27:10 INFO  Main:15 - OK
+2017-10-31 15:30:52 INFO  Main:15 - OK
+2017-10-31 15:33:01 INFO  Main:15 - OK
+2017-10-31 15:33:57 INFO  Queries:16 - Odpalam setUpa!
+2017-10-31 15:33:57 INFO  Queries:16 - Odpalam setUpa!
+2017-11-03 14:08:01 INFO  Main:15 - OK
+2017-11-03 14:16:38 INFO  Main:15 - OK
